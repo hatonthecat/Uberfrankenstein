@@ -42,6 +42,16 @@ being. The greatest satirical aspect of this book is that the human race, while 
 knowledge, ends up becoming its own adversary and enemy. Because of this successfully ironic portrayal of
 human nature, Huxley remains one of the most successful 20th century satirists."
 
+"He is quoted in a letter to George Orwell to say,“Within the next generation I believe that the world's
+leaders will discover that infant conditioning and narco-hypnosis are more efficient, as
+instruments of government, than clubs and prisons, and that the lust for power can be just as
+completely satisfied by suggesting people into loving their servitude as by flogging them and
+kicking them into obedience.” In Brave New World, Huxley explores this idea of a society
+controlled by pleasure, ignorance, and conditioning. "
+
+What Huxley believed to be a more efficient way of conditioning humans, it is now satire that has the burden and the blessing of being the more efficient antagonis of longtermism and any other eschatological cult that arises out of AI doomerism.
+
 [https://en.wikipedia.org/wiki/Ape_and_Essence ](https://en.wikipedia.org/wiki/Ape_and_Essence#Definition_of_Progressive_Theory_in_Ape_and_Essence)https://en.wikipedia.org/wiki/Ape_and_Essence#Definition_of_Progressive_Theory_in_Ape_and_Essence
 
 https://web.archive.org/web/20020111080151/http://legendsmagazine.net/107/ape.htm
+
