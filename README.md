@@ -1,4 +1,4 @@
-# Uberfrankenstein
+# Überfrankenstein
 
 "Dr. Frankenstein's crime was not that he invented a creature through some combination of hubris and high technology, but rather that he abandoned the creature to itself (emphasis original)"
 
