@@ -30,6 +30,18 @@ https://www.google.com/books/edition/Aldous_Huxley/D159Z5kJa_YC?hl=en&gbpv=0
 
 https://scholarspace.jccc.edu/cgi/viewcontent.cgi?article=1017&context=honors_journal "The Use of Satire in Aldous Huxley’s Brave New World" (2011)
 
+"Satire is successful when the writer can make an audience believe the idea presented is not only logical, but
+practical; the most effective satirists can even convince the reader to consider the idea as a reasonable solution
+to a problem. Often, satire is used to bring to light certain social or moral issues or absurdities, and even more
+ridiculous resolutions to said problems. While certain satires are appealing in their obvious disgust of
+humanity, other works are not so blatant in their mockery, presenting more realistic situations. One of the
+most famous satirists of the 20th century, Aldous Huxley employed such tactics in Brave New World and Ape
+and Essence, not to mention other famous novels and essays. In Brave New World, Huxley shows how
+appalling it would be to remain ignorant in happiness, and lack the potential to develop as a frail, error-prone
+being. The greatest satirical aspect of this book is that the human race, while trying to better itself and gain
+knowledge, ends up becoming its own adversary and enemy. Because of this successfully ironic portrayal of
+human nature, Huxley remains one of the most successful 20th century satirists."
+
 [https://en.wikipedia.org/wiki/Ape_and_Essence ](https://en.wikipedia.org/wiki/Ape_and_Essence#Definition_of_Progressive_Theory_in_Ape_and_Essence)https://en.wikipedia.org/wiki/Ape_and_Essence#Definition_of_Progressive_Theory_in_Ape_and_Essence
 
 https://web.archive.org/web/20020111080151/http://legendsmagazine.net/107/ape.htm
