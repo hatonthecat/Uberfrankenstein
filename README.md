@@ -29,3 +29,7 @@ The essays on Aldous Huxley collected here were written between 1966 and 2005 an
 https://www.google.com/books/edition/Aldous_Huxley/D159Z5kJa_YC?hl=en&gbpv=0
 
 https://scholarspace.jccc.edu/cgi/viewcontent.cgi?article=1017&context=honors_journal "The Use of Satire in Aldous Huxley’s Brave New World" (2011)
+
+[https://en.wikipedia.org/wiki/Ape_and_Essence ](https://en.wikipedia.org/wiki/Ape_and_Essence#Definition_of_Progressive_Theory_in_Ape_and_Essence)https://en.wikipedia.org/wiki/Ape_and_Essence#Definition_of_Progressive_Theory_in_Ape_and_Essence
+
+https://web.archive.org/web/20020111080151/http://legendsmagazine.net/107/ape.htm
