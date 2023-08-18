@@ -57,3 +57,15 @@ https://web.archive.org/web/20020111080151/http://legendsmagazine.net/107/ape.ht
 
 https://vc.bridgew.edu/cgi/viewcontent.cgi?article=1129&context=undergrad_rev "Is Prospero Just? Platonic Virtue in
 William Shakespeare’s The Tempest" (2009)  
+
+https://en.wikipedia.org/wiki/Pyrrhonism 
+
+"Pyrrhonism is an Ancient Greek school of philosophical skepticism which rejects dogma and advocates the suspension of judgement over the truth of all beliefs. It was founded by Aenesidemus in the first century BCE, and said to have been inspired by the teachings of Pyrrho and Timon of Phlius in the fourth century BCE.[1] Pyrrhonism is best known today through the surviving works of Sextus Empiricus, writing in the late second century or early third century CE.[2] The publication of Sextus' works in the Renaissance ignited a revival of interest in Skepticism and played a major role in Reformation thought and the development of early modern philosophy."
+
+"The goal of Pyrrhonism is ataraxia, an untroubled and tranquil condition of soul that results from a suspension of judgement, a mental rest owing to which we neither deny nor affirm anything.
+
+Pyrrhonists dispute that the dogmatists – which includes all of Pyrrhonism's rival philosophies – claim to have found truth regarding non-evident matters, and that these opinions about non-evident matters (i.e., dogma) are what prevent one from attaining eudaimonia. For any of these dogma, a Pyrrhonist makes arguments for and against such that the matter cannot be concluded, thus suspending judgement, and thereby inducing ataraxia.
+
+Pyrrhonists can be subdivided into those who are ephectic (engaged in suspension of judgment), aporetic (engaged in refutation)[5] or zetetic (engaged in seeking).[6] An ephectic merely suspends judgment on a matter, "balancing perceptions and thoughts against one another,"[7] It is a less aggressive form of skepticism, in that sometimes "suspension of judgment evidently just happens to the sceptic".[8] An aporetic skeptic, in contrast, works more actively towards their goal, engaging in the refutation of arguments in favor of various possible beliefs in order to reach aporia, an impasse, or state of perplexity,[9] which leads to suspension of judgement.[8] Finally, the zetetic claims to be continually searching for the truth but to have thus far been unable to find it, and thus continues to suspend belief while also searching for reason to cease the suspension of belief."
+
+
