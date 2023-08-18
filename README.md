@@ -76,3 +76,19 @@ Pyrrhonism is often contrasted with Academic skepticism, a similar but distinct 
 Sextus Empiricus also said that the Pyrrhonist school influenced and had substantial overlap with the Empiric school of medicine, but that Pyrrhonism had more in common with the Methodic school in that it "follow[s] the appearances and take[s] from these whatever seems expedient."[25]
 
 Although Julian the Apostate[26] mentions that Pyrrhonism had died out at the time of his writings, other writers mention the existence of later Pyrrhonists. Pseudo-Clement, writing around the same time (c. 300-320 CE) mentions Pyrrhonists in his Homilies[27] and Agathias even reports a Pyrrhonist named Uranius as late as the middle of the 6th century CE.[28]"
+
+----
+Steering the Ubermensch:
+---
+
+While the two opposing forces in AI development will most prominently appear to be Industry/Gov and Academia/Gov:
+
+"A cynic would suggest that some of the apparent Baptists are also Bootleggers – specifically the ones paid to attack AI by their universities, think tanks, activist groups, and media outlets. If you are paid a salary or receive grants to foster AI panic…you are probably a Bootlegger."
+https://a16z.com/2023/06/06/ai-will-save-the-world/
+
+...another source of counteracting regulation can arise from the intrinsic power dynamic of class and identity:
+
+https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3212011 "Tracking Privilege-Preserving Epistemic Pushback in Feminist and Critical Race Philosophy Classes" 2017
+
+https://journals.openedition.org/ejpap/678 "The Epistemology of Resistance" 2012 
+
