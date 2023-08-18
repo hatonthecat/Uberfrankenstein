@@ -128,6 +128,8 @@ Machine Intelligence has allowed graphic designers (potentially AI-generated), t
 
 ![image](https://github.com/hatonthecat/Uberfrankenstein/assets/76194453/982fb54d-b7ce-4233-a892-ae2ee8f59c3d)
 
+https://gizmodo.com/horizon-worlds-did-not-translate-spanish-meta-oculus-1849433802
+
 Basílica i Temple Expiatori de la Sagrada Família:
 
 ![image](https://github.com/hatonthecat/Uberfrankenstein/assets/76194453/06946859-e8c3-4137-9542-3c3b452cb66a)
