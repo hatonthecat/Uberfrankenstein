@@ -78,7 +78,7 @@ Sextus Empiricus also said that the Pyrrhonist school influenced and had substan
 Although Julian the Apostate[26] mentions that Pyrrhonism had died out at the time of his writings, other writers mention the existence of later Pyrrhonists. Pseudo-Clement, writing around the same time (c. 300-320 CE) mentions Pyrrhonists in his Homilies[27] and Agathias even reports a Pyrrhonist named Uranius as late as the middle of the 6th century CE.[28]"
 
 ----
-Steering the Ubermensch:
+Steering the Übermensch/Uberfrankenstein:
 ---
 
 While the two opposing forces in AI development will most prominently appear to be Industry/Gov and Academia/Gov:
