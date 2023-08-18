@@ -93,7 +93,7 @@ https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3212011 "Tracking Privilege-
 https://journals.openedition.org/ejpap/678 "The Epistemology of Resistance" 2012 
 
 ----
-_In situ_ culturing of Frankenstein Chia Pet
+_In situ_ culturing of Frankenstein
 --
 
 https://www.instructables.com/How-to-Franken-Mod-your-Bart-Simpson-Chia-Pet/
