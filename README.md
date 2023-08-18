@@ -121,4 +121,22 @@ The use of art to market AI, including the use of generative AI "art," is remini
 
 Generative AI takes _Trompe-l'œil_ to another level, the autonomous digital age, and instead of man-made art, becomes  _Trompe le Pomp,_ or "fool the shoddy," which applies to the undiscerning eye and replaces the category for authentic altogether with its own artifice. Alternatively, _Pomp le Monde_ is also applicable, if "pomp" is used as a verb. The phrase "Fake it til you make it" is a term adopted to the nth degree, but cannot account for the possibile ramifications of a wrench being thrown into the cogs of a modern Prometheus.
 
+---
+The Perils of Poor Eyesight
+---
+Machine Intelligence has allowed graphic designers (potentially AI-generated), to rasterize one of the most artistically unique edifices in Spain as a missile silo.
 
+![image](https://github.com/hatonthecat/Uberfrankenstein/assets/76194453/982fb54d-b7ce-4233-a892-ae2ee8f59c3d)
+
+Basílica i Temple Expiatori de la Sagrada Família:
+
+![image](https://github.com/hatonthecat/Uberfrankenstein/assets/76194453/06946859-e8c3-4137-9542-3c3b452cb66a)
+
+
+The number of windows are sparse:
+![image](https://github.com/hatonthecat/Uberfrankenstein/assets/76194453/3a1b7488-83e9-4542-a8e4-3b7577e8cb49)
+
+ ![image](https://github.com/hatonthecat/Uberfrankenstein/assets/76194453/a969cee1-5ef8-41f6-a4ab-374131098ddf)
+
+https://en.wikipedia.org/wiki/Sagrada_Fam%C3%ADlia#/media/File:Sagrada_Fam%C3%ADlia_(2019).jpg A definining feature of the Sagrada is that there is an emphasis more on the shape than the non-shape, the form, over the function. A half-precision floating point register in an microprocessor would not be able to determine whether a cylinder has more than 50% window space, and overcompenstate with structural rendering. https://en.wikipedia.org/wiki/Half-precision_floating-point_format
+https://www.cs.uaf.edu/2011/spring/cs641/proj1/rarutter/ Machine inference would depend on using increasingly iterative learning mechanisms, but cannot fully solve the artificial hallucination problem https://en.wikipedia.org/wiki/Hallucination_(artificial_intelligence)
