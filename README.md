@@ -134,9 +134,10 @@ Basílica i Temple Expiatori de la Sagrada Família:
 
 
 The number of windows are sparse:
+
 ![image](https://github.com/hatonthecat/Uberfrankenstein/assets/76194453/3a1b7488-83e9-4542-a8e4-3b7577e8cb49)
 
  ![image](https://github.com/hatonthecat/Uberfrankenstein/assets/76194453/a969cee1-5ef8-41f6-a4ab-374131098ddf)
 
-https://en.wikipedia.org/wiki/Sagrada_Fam%C3%ADlia#/media/File:Sagrada_Fam%C3%ADlia_(2019).jpg A definining feature of the Sagrada is that there is an emphasis more on the shape than the non-shape, the form, over the function. A half-precision floating point register in an microprocessor would not be able to determine whether a cylinder has more than 50% window space, and overcompenstate with structural rendering. https://en.wikipedia.org/wiki/Half-precision_floating-point_format
+https://en.wikipedia.org/wiki/Sagrada_Fam%C3%ADlia#/media/File:Sagrada_Fam%C3%ADlia_(2019).jpg A definining feature of the Sagrada is that there is an emphasis more on the non-shape than the shape, the Gothic, curvilinear, over the supralinear function. A half-precision floating point register in an microprocessor would not be able to determine whether a cylinder has more than 50% window space, and overcompenstate with structural rendering. https://en.wikipedia.org/wiki/Half-precision_floating-point_format
 https://www.cs.uaf.edu/2011/spring/cs641/proj1/rarutter/ Machine inference would depend on using increasingly iterative learning mechanisms, but cannot fully solve the artificial hallucination problem https://en.wikipedia.org/wiki/Hallucination_(artificial_intelligence)
