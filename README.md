@@ -96,6 +96,6 @@ https://journals.openedition.org/ejpap/678 "The Epistemology of Resistance" 2012
 Rationing the Frankenstein
 ---
 
-Digital Foraging through audiovisual cues:
+Digital foraging through audiovisual cues:
 
-https://www.youtube.com/watch?v=b5UGumDu6L8 
+https://www.youtube.com/watch?v=NO2cHJmDkBg
