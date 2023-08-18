@@ -92,3 +92,10 @@ https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3212011 "Tracking Privilege-
 
 https://journals.openedition.org/ejpap/678 "The Epistemology of Resistance" 2012 
 
+---
+Rationing the Frankenstein
+---
+
+Digital Foraging through audiovisual cues:
+
+https://www.youtube.com/watch?v=b5UGumDu6L8 
