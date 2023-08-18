@@ -105,3 +105,21 @@ Rationing the Frankenstein
 Digital foraging through audiovisual cues:
 
 https://www.youtube.com/watch?v=NO2cHJmDkBg
+
+---
+Monsterwashing
+---
+The rise of AGI robots will inevitably lead to the need for euphemistic marketing around products that have few safety features. OpenAI's 4 year Superalignment plan echos the 5 year plan of the early Soviet Union:  https://80000hours.org/podcast/episodes/jan-leike-superalignment/ 
+
+https://en.wikipedia.org/wiki/Five-year_plans_of_the_Soviet_Union
+
+https://openai.com/blog/introducing-superalignment
+
+The use of art to market AI, including the use of generative AI "art," is reminiscient of _Trompe-l'œil_ in painting. The 1991 Pixies Album, _Trompe le Monde_, featured uncanny but obviously studio-crafted eyeballs that have the sheen of real eyes without the obvious organic tissue:
+
+![image](https://github.com/hatonthecat/Uberfrankenstein/assets/76194453/f2dfb434-610e-4b98-ac04-b4510739882a)
+
+Generative AI takes _Trompe-l'œil_, and instead of man-made art, becomes  _Trompe le Pomp,_ or "fool the shoddy," which applies to both the undiscerning eye, and replaces the category for authentic altogether with its own artifice. 
+
+
+
