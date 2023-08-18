@@ -119,6 +119,6 @@ The use of art to market AI, including the use of generative AI "art," is remini
 
 ![image](https://github.com/hatonthecat/Uberfrankenstein/assets/76194453/f2dfb434-610e-4b98-ac04-b4510739882a)
 
-Generative AI takes _Trompe-l'œil_ to another level, the autonomous digital age, and instead of man-made art, becomes  _Trompe le Pomp,_ or "fool the shoddy," which applies to the undiscerning eye and replaces the category for authentic altogether with its own artifice. Alternatively, _Pomp le Monde_ is also applicable, if "pomp" is used as a verb. The phrase "Fake it til you make it" is a term adopted to the nth degree, cannot account for the possibile ramifications of a wrench being thrown into the cogs of a modern Prometheus.
+Generative AI takes _Trompe-l'œil_ to another level, the autonomous digital age, and instead of man-made art, becomes  _Trompe le Pomp,_ or "fool the shoddy," which applies to the undiscerning eye and replaces the category for authentic altogether with its own artifice. Alternatively, _Pomp le Monde_ is also applicable, if "pomp" is used as a verb. The phrase "Fake it til you make it" is a term adopted to the nth degree, but cannot account for the possibile ramifications of a wrench being thrown into the cogs of a modern Prometheus.
 
 
