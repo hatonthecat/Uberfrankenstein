@@ -55,3 +55,5 @@ What Huxley believed to be a more efficient way of conditioning humans, it is no
 
 https://web.archive.org/web/20020111080151/http://legendsmagazine.net/107/ape.htm
 
+https://vc.bridgew.edu/cgi/viewcontent.cgi?article=1129&context=undergrad_rev "Is Prospero Just? Platonic Virtue in
+William Shakespeare’s The Tempest" (2009)  
