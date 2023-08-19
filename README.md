@@ -207,3 +207,15 @@ from [https://en.wikipedia.org/wiki/Ape_and_Essence
 ](https://en.wikipedia.org/wiki/Ape_and_Essence#Story)
 
 It is likely that Huxley would have said the same of the longtermist idea of giant computer simulations where people's minds are uploaded, apparently indefinitely and without checksum or error correction code being possible, even if it were somehow deemed ethical. As neuroscience has determined, memories cannot be replicated nor merely accessed without them being altered in the process, much like quantum encryption can reveal whether wiretapping took place. A tour guide of Mammoth Cave, Kentucky said the same. https://en.wikipedia.org/wiki/Mammoth_Cave_National_Park
+
+The proliferation of text-to-image modelling using AI is eerily reminiscient of teratogenic deformities creating not just an uncanny valley of images (see https://www.nationalgeographic.com/science/article/ai-uncanny-valley) but a many abstractions away from the original semantics that gets lost in translation.
+
+https://en.wikipedia.org/wiki/Text-to-image_model
+
+https://en.wikipedia.org/wiki/Uncanny_valley While the definition of beauty is certainly up to interpretation, an aesthetic would know more about kitsch than a machine trained on data-poisoned data sets. 
+
+https://en.wikipedia.org/wiki/Frankenstein_complex  "The "Frankenstein complex" is similar in many respects to Masahiro Mori's uncanny valley hypothesis."
+
+"In Asimov's robot novels, the Frankenstein complex is a major problem for roboticists and robot manufacturers. They do all they can to reassure the public that robots are harmless, even though this sometimes involves hiding the truth because they think that the public would misunderstand it. The fear by the public and the response of the manufacturers is an example of the theme of paternalism, the dread of paternalism, and the conflicts that arise from it in Asimov's fiction.[citation needed]"
+
+https://en.wikipedia.org/wiki/I,_Robot
