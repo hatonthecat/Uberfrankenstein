@@ -51,6 +51,8 @@ controlled by pleasure, ignorance, and conditioning. "
 
 What Huxley believed to be a more efficient way of conditioning humans, it is now satire that has the burden and the blessing of being the more efficient antagonis of longtermism and any other eschatological cult that arises out of AI doomerism.
 
+https://journals.lib.unb.ca/index.php/IFR/article/download/13701/14783/18409 "The Subversion of Drama in Huxley's Brave New World" Edward Lobb, Queen's University (The International Fiction Review, 11, No. 2 (1984)
+
 [https://en.wikipedia.org/wiki/Ape_and_Essence ](https://en.wikipedia.org/wiki/Ape_and_Essence#Definition_of_Progressive_Theory_in_Ape_and_Essence)https://en.wikipedia.org/wiki/Ape_and_Essence#Definition_of_Progressive_Theory_in_Ape_and_Essence
 
 https://web.archive.org/web/20020111080151/http://legendsmagazine.net/107/ape.htm
