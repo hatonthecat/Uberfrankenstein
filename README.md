@@ -147,3 +147,56 @@ https://en.wikipedia.org/wiki/Sagrada_Fam%C3%ADlia#/media/File:Sagrada_Fam%C3%AD
 https://www.cs.uaf.edu/2011/spring/cs641/proj1/rarutter/ Machine inference would depend on using increasingly iterative learning mechanisms, but cannot fully solve the artificial hallucination problem https://en.wikipedia.org/wiki/Hallucination_(artificial_intelligence)
 
 An unmanned aerial vehicle (UAV) with artificial eyesight this poor could not be trusted to telemetrically relay information (even in "just" a reconnaissance capacity) about its environment in a reliable way. While the comparisons to nuclear war sound extreme, relying on AI to be the eyes and ears of any significant autonomous entity could result in a miscalculation of a more significant degree: https://en.wikipedia.org/wiki/Human_error All AI systems are humanly developed, thus the burden of responsibility rests on the creator.
+
+---
+THe Many-Frankensteins Hypothesis
+---
+
+From the Subversion of Drama in Huxley's Brave New World (Edward Lobb, 1984):
+
+"A highly conscious artist and an omnivorous reader, Huxley was well aware of
+the difficulties involved in writing a work of this type. There were few precedents for
+the juxtaposition of the novel form, the satiric mode, and the Utopian debate
+(Erewhon is one possible example), so Huxley was in territory which was not only
+dangerous but largely uncharted. It is a measure of his success that Brave New World
+not only overcomes its potentially centrifugal tendencies, but actually uses its various
+traditions to work out, in subtle fashion, themes which are more directly stated
+elsewhere in the novel. Brave New World is thus—against the odds, and contrary to the
+opinions of several critics—a work in which form and content are artfully combined."
+
+"Huxley made this point, one year after Hiroshima, to explain the absence from
+the novel of phenomena such as atomic energy, which was a theoretical possibility
+even in 1932. His specifying of "the theme," however, has led to unfortunately
+narrow interpretations of Brave New World. It is generally treated now as a scientific
+dystopia, a cautionary reply to H. G. Wells's vision of infinite social progress under
+the aegis of a benevolent caste of scientist-samurai.2"
+
+[2] Huxley himself suggested that Brave New World had originated as a parody of Wells's Men Like Gods ( 1922)
+and then assumed a life of its own. Jerome Meckier has challenged this account of the novel's genesis in "A
+Neglected Huxley 'Preface': His Earliest Synopsis ofBrave New World," Twentieth Century Literature, 25, No. 1
+(Spring 1979), 1-20; see p. 2 especially. It is often forgotten that Wells depicted the irresponsible use of
+science (in The Island of Dr. Moreau (1896), for example), and wrote at least one dystopian novel (When the
+Sleeper Wakes, 1899)
+
+https://en.wikipedia.org/wiki/The_Island_of_Doctor_Moreau "Wells described it as "an exercise in youthful blasphemy."[3]"  "Wells's description of The Island of Dr. Moreau as youthful blasphemy comes from his introduction to The Scientific Romances of H. G. Wells (1933; published in the United States as Seven Famous Novels by H. G. Wells, 1934). This Preface to the Scientific Romances is reprinted as a chapter of editors Patrick Parrinder and Robert M. Philmus's H. G. Wells's Literary Criticism (Sussex: The Harvester Press Limited, and New Jersey: Barnes & Noble Books, 1980), see p. 243 for the line quoted."
+
+https://en.wikipedia.org/wiki/The_Limits_of_Individual_Plasticity
+
+https://www.google.com/books/edition/The_Pursuit_of_Perfection/j-gB7ZawIDsC?hl=en&gbpv=1&dq=%22The+Limits+of+Individual+Plasticity%22&pg=PT35&printsec=frontcover
+
+ Rothma, Sheila and David, The Pursuit of Perfection: The Promise and Perils of Medical Enhancement, Random House Digital, Inc., 2011
+ Wells, Herbert George (1975). H.G. Wells: Early Writings in Science and Science Fiction. California: University of California Press. p. 249. ISBN 0520026799.
+ Bleiler, Everett, Science Fiction: The Early Years. p.796. Kent State University Press, 1990
+ Billias, Nancy, Promoting and Producing Evil, Rodopi, 2010, p. 74
+
+https://en.wikipedia.org/wiki/The_Sleeper_Awakes
+https://en.wikisource.org/wiki/The_Sleeper_Awakes
+
+"On the other hand, the EA movement has convinced an increasing fraction of its community over the past five years that global poverty as a whole isn’t the most “effective” cause area. Instead, we should redirect our finite resources to ensuring that humanity survives long enough to colonize space, spread throughout the accessible universe, populate exoplanets and build giant computer simulations in which trillions and trillions of digital people live supposedly “happy” lives. Although not all EAs have pivoted toward longtermism, and hence away from global poverty, the most prominent members of the EA community like Toby Ord and William MacAskill — both of whom once focused primarily on global poverty rather than the far future — have been vigorously promoting the longtermist perspective, and as I’ve discussed on many occasions before, longtermism is becoming hugely influential in the world more generally."
+https://www.truthdig.com/articles/giving-altruism-a-bad-name/ 
+
+While the idea of a SuperAGI superintelligence might evoke images of a HAL9000 running in a datacenter somewhere, in many ways, the longtermist goal of uploading digital minds as a "more efficient" way of promoting happiness is in many ways the most extreme overcalculation of not just one frankenstein but many frankensteins. With no ability to determine the actual condition of each human, the concept increasingly resembles a Brave New World-esque society, where happinesss is coerced with soma and knowledge and free inquiry is banished. Furthermore, the "trillion happy mind" digital mind concept is ironically similar to an even more dystopian version of the planned suburban housing developments of Levittown, the khrushchevka of the 1960s Soviet Union, and the Japanese _danchi_.
+
+https://en.wikipedia.org/wiki/Many-worlds_interpretation#Debate_whether_the_other_worlds_are_real (not related but term used as inspiration for naming the MFH)
+
+
