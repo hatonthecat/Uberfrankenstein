@@ -224,4 +224,4 @@ https://en.wikipedia.org/wiki/Frankenstein_complex  "The "Frankenstein complex" 
 
 https://en.wikipedia.org/wiki/I,_Robot
 
-Satire Podcast covering AI: https://open.spotify.com/episode/6Yl1aDeJgye5J2WQo7IKDm "Orcas, AI, Idiots: A summer feast" Aug 17
+Satire Podcast covering AI: https://open.spotify.com/episode/6Yl1aDeJgye5J2WQo7IKDm "Orcas, AI, Idiots: A summer feast" Aug 17 There is a brief mention of AI at the 35:30 mark regarding the concern over lost of jobs, in a humorous way.
