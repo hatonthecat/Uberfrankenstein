@@ -226,4 +226,5 @@ https://en.wikipedia.org/wiki/I,_Robot
 
 Satire Podcast covering AI: https://open.spotify.com/episode/6Yl1aDeJgye5J2WQo7IKDm "Orcas, AI, Idiots: A summer feast" Aug 17 There is a brief mention of AI at the 35:30 mark regarding the concern over lost of jobs, in a humorous way.
 
+Thanks for reading! This repository appears to be complete.
 ![image](https://github.com/hatonthecat/Uberfrankenstein/assets/76194453/7d7b4487-2368-44a6-8c8b-e719b5ed7530)
