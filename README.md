@@ -223,3 +223,5 @@ https://en.wikipedia.org/wiki/Frankenstein_complex  "The "Frankenstein complex" 
 "In Asimov's robot novels, the Frankenstein complex is a major problem for roboticists and robot manufacturers. They do all they can to reassure the public that robots are harmless, even though this sometimes involves hiding the truth because they think that the public would misunderstand it. The fear by the public and the response of the manufacturers is an example of the theme of paternalism, the dread of paternalism, and the conflicts that arise from it in Asimov's fiction.[citation needed]"
 
 https://en.wikipedia.org/wiki/I,_Robot
+
+Satire Podcast covering AI: https://open.spotify.com/episode/6Yl1aDeJgye5J2WQo7IKDm "Orcas, AI, Idiots: A summer feast" Aug 17
