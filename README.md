@@ -79,6 +79,10 @@ Sextus Empiricus also said that the Pyrrhonist school influenced and had substan
 
 Although Julian the Apostate[26] mentions that Pyrrhonism had died out at the time of his writings, other writers mention the existence of later Pyrrhonists. Pseudo-Clement, writing around the same time (c. 300-320 CE) mentions Pyrrhonists in his Homilies[27] and Agathias even reports a Pyrrhonist named Uranius as late as the middle of the 6th century CE.[28]"
 
+https://www.bbc.co.uk/programmes/b09gnqp2 "Andy Zaltzman explores the teachings of three ancient schools of philosophy.  12/01/2017"
+
+
+
 ----
 Steering the Übermensch/Uberfrankenstein:
 ---
