@@ -210,7 +210,7 @@ From Huxley's 1948 _Ape and Essence_, it is clear Huxley was aware of the franke
 from [https://en.wikipedia.org/wiki/Ape_and_Essence 
 ](https://en.wikipedia.org/wiki/Ape_and_Essence#Story)
 
-It is likely that Huxley would have said the same of the longtermist idea of giant computer simulations where people's minds are uploaded, apparently indefinitely and without checksum or error correction code being possible, even if it were somehow deemed ethical. As neuroscience has determined, memories cannot be replicated nor merely accessed without them being altered in the process, much like quantum encryption can reveal whether wiretapping took place. A tour guide of Mammoth Cave, Kentucky said the same. https://en.wikipedia.org/wiki/Mammoth_Cave_National_Park
+It is likely that Huxley would have said the same of the longtermist idea of giant computer simulations where people's minds are uploaded, apparently indefinitely and without checksum or error correction code being possible, even if it were somehow deemed ethical. As neuroscience has determined, memories cannot be replicated nor merely accessed without them being altered in the process, much like quantum encryption can reveal whether wiretapping took place. A tour guide of Mammoth Cave, Kentucky said the same (That you can't enter the cave without altering it in some way). https://en.wikipedia.org/wiki/Mammoth_Cave_National_Park
 
 The proliferation of text-to-image modelling using AI is eerily reminiscient of teratogenic deformities creating not just an uncanny valley of images (see https://www.nationalgeographic.com/science/article/ai-uncanny-valley) but a many abstractions away from the original semantics that gets lost in translation.
 
