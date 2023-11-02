@@ -230,6 +230,17 @@ The Three AI Lobbyists of K-Street
 
 ![image](https://github.com/hatonthecat/Uberfrankenstein/assets/76194453/0062b02e-2fbf-4769-838d-9c4fac9cb3bf)
 
+![image](https://github.com/hatonthecat/Uberfrankenstein/assets/76194453/4748ea7d-32ba-4115-a307-bca32f050135)
+
+https://www.youtube.com/watch?v=wr3J11fbRXk
+
+![image](https://github.com/hatonthecat/Uberfrankenstein/assets/76194453/8b2bfec1-6a82-46f9-ba0c-5ed45b9fe4e0)
+
+https://imgs.xkcd.com/comics/duty_calls.png
+
+![image](https://github.com/hatonthecat/Uberfrankenstein/assets/76194453/67d7c452-f791-4548-a12c-47719ec37d42)
+
+![image](https://github.com/hatonthecat/Uberfrankenstein/assets/76194453/35729d2f-9e7b-47d6-a4bd-2345e5f96734)
 
 ----
 Hyperstition (a similar topic, but not unrelated enough to start a new repository)
