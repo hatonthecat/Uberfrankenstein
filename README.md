@@ -234,8 +234,6 @@ The Three AI Lobbyists of K-Street
 
 https://www.youtube.com/watch?v=wr3J11fbRXk
 
-![image](https://github.com/hatonthecat/Uberfrankenstein/assets/76194453/8b2bfec1-6a82-46f9-ba0c-5ed45b9fe4e0)
-
 https://imgs.xkcd.com/comics/duty_calls.png
 
 ![image](https://github.com/hatonthecat/Uberfrankenstein/assets/76194453/67d7c452-f791-4548-a12c-47719ec37d42)
