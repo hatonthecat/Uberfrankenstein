@@ -232,11 +232,13 @@ The Three AI Lobbyists of K-Street
 
 ![image](https://github.com/hatonthecat/Uberfrankenstein/assets/76194453/4748ea7d-32ba-4115-a307-bca32f050135)
 
-https://www.youtube.com/watch?v=wr3J11fbRXk
-
-https://imgs.xkcd.com/comics/duty_calls.png
+https://www.youtube.com/watch?v=wr3J11fbRXk (made this observation months ago- I wasn't the first- (see youtube comment)
 
 ![image](https://github.com/hatonthecat/Uberfrankenstein/assets/76194453/67d7c452-f791-4548-a12c-47719ec37d42)
+
+https://twitter.com/AISafetyMemes/status/1803988204162552189
+
+https://imgs.xkcd.com/comics/duty_calls.png
 
 ![image](https://github.com/hatonthecat/Uberfrankenstein/assets/76194453/35729d2f-9e7b-47d6-a4bd-2345e5f96734)
 
